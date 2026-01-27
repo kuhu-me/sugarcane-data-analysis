@@ -79,6 +79,7 @@ All future improvements will be added through **new commits**.
 - The current focus of the project is **Exploratory Data Analysis (EDA)**.
 - Visualizations are designed to support analytical understanding rather than prediction.
 - The notebook will be updated iteratively as the project progresses.
+- Interactive Plotly visualizations may not render in GitHub’s notebook preview. Please run the notebook locally to view them.
 
 ---
 
