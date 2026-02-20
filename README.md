@@ -47,6 +47,8 @@ To study relationships between important numerical variables:
 ### 4️⃣ Aggregated Continent-Level Insights
 To understand global contribution patterns:
 - Pie / bar chart showing **Total Sugarcane Production by Continent**
+To understand Yield distribution of various countries:
+- Box plot shaowing **Yield of Different Continents**
 
 ---
 
