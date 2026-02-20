@@ -3,8 +3,8 @@
 This repository contains an exploratory data analysis (EDA) project focused on global sugarcane production data.  
 The aim of the project is to understand patterns related to sugarcane yield, production, acreage, and their variation across countries and continents using visual analysis.
 
-⚠️ **Project Status:** This project is **not completed yet**.  
-Further analysis, visualizations, and refinements will be added in **future commits**.
+⚠️ **Project Status:** This project is **completed**.  
+Please upvote for more such **repositories in future**.
 
 ---
 
@@ -12,10 +12,14 @@ Further analysis, visualizations, and refinements will be added in **future comm
 
 - `Data_Analysis.ipynb`  
   Jupyter Notebook containing the complete exploratory data analysis, data processing steps, and visualizations related to sugarcane production.
+- `data.csv`  
+  Comma Separated values file containing raw and unprocessed data set.  
+- `plots`  
+  As all the interactive plots cannot be shown in default notebook the interacive plots made with plotly are converted into html files which can easily be launched on your preferre browser giving an ultimate experience.
 
 ---
 
-## 📊 Exploratory Data Analysis (Completed So Far)
+## 📊 Exploratory Data Analysis 
 
 The following visualizations and analyses have been successfully implemented:
 
@@ -63,26 +67,11 @@ To understand Yield distribution of various countries:
 
 ---
 
-## 🚧 Ongoing Work & Future Updates
-
-This project is still under development. Planned future updates include:
-- Additional exploratory insights
-- Improved and more interactive visualizations
-- Deeper statistical analysis
-- Possible trend-based or predictive analysis
-- Better documentation and conclusions
-
-All future improvements will be added through **new commits**.
-
----
-
 ## 📌 Notes
 
-- The current focus of the project is **Exploratory Data Analysis (EDA)**.
-- Visualizations are designed to support analytical understanding rather than prediction.
-- The notebook will be updated iteratively as the project progresses.
-- Interactive Plotly visualizations may not render in GitHub’s notebook preview. Please run the notebook locally to view them.
+- The major focus of the project is **Exploratory Data Analysis (EDA) and visulization design**.
+- The project mainly focuses on getting to know about the dataset in detail with visulaizations which are interactive and mostly important to get a in-depth understanding of the project.
 
 ---
 
-✨ Feel free to explore the notebook, and stay tuned for future updates!
+✨ Feel free to explore the notebook,upvote and stay tuned for future updates!
